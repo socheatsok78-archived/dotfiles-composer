@@ -1,0 +1,6 @@
+{
+    "name": "socheatsok78/dotfiles-composer-killposer",
+    "require": {
+        "tuqqu/killposer": "^0.3.0"
+    }
+}
