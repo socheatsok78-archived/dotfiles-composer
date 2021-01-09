@@ -1,0 +1,13 @@
+{
+    "name": "socheatsok78/dotfiles-composer",
+    "description": "PHP Composer Dotfiles Sub-module",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Socheat Sok",
+            "email": "alex@socheat.net"
+        }
+    ],
+    "require": {}
+}
