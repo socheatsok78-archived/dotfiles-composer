@@ -9,5 +9,7 @@
             "email": "alex@socheat.net"
         }
     ],
-    "require": {}
+    "require": {
+        "laravel/installer": "^4.1"
+    }
 }
