@@ -12,6 +12,7 @@
     "require": {
         "laravel/installer": "^4.1",
         "laravel/valet": "^2.13",
-        "laravel/envoy": "^2.5"
+        "laravel/envoy": "^2.5",
+        "beyondcode/expose": "^1.4"
     }
 }
